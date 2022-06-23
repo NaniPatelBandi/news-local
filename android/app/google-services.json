@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38526752238",
+    "project_id": "localnewsapp2022",
+    "storage_bucket": "localnewsapp2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38526752238:android:07d57d4e12d6e3650e6aff",
+        "android_client_info": {
+          "package_name": "com.localnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38526752238-s1998o43h71sp1kk44hr4fugjh8nf4d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv9pk4Z4nwbhL1HOTH9Dybk6oaSQIgeGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38526752238-s1998o43h71sp1kk44hr4fugjh8nf4d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
